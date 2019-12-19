@@ -1,5 +1,5 @@
 # Movie-Data-NLTK-Analysis
-Code developed for a final project in Master's level Introductory Python class.
+Code developed for a final project in Master's level introductory Python class.
 
 Program has two movie datasets in varying structures.
 
